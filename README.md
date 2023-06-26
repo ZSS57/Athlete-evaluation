@@ -11,9 +11,11 @@ Criteria1 comparing the last two games’ symptom summaries
 
 When athlete selects “Am I at Risk?” button...
 
-  No difference:
-total symptom difference < 3 && severity score < 10, display a green image
-  Unsure:
-total symptom difference < 3 && severity score ≥ 10, display a yellow image
-  Very different:
+No difference:
+total symptom difference < 3 && severity score < 10, display a green image  
+
+Unsure:
+total symptom difference < 3 && severity score ≥ 10, display a yellow image  
+
+Very different:
 total symptom difference ≥ 3 || severity score ≥ 15, display a red image
