@@ -21,4 +21,4 @@ Very different:
 total symptom difference ≥ 3 || severity score ≥ 15, display a red image
 
 Demo gif:  
-https://github.com/ZSS57/Athlete-evaluation/blob/main/Website%20demo.gif
+<img src='https://github.com/ZSS57/Athlete-evaluation/blob/main/Website%20demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
