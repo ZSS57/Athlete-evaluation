@@ -19,3 +19,6 @@ Unsure:
 total symptom difference < 3 && severity score ≥ 10, display a yellow image  
 Very different:
 total symptom difference ≥ 3 || severity score ≥ 15, display a red image
+
+Demo gif:  
+https://github.com/ZSS57/Athlete-evaluation/blob/main/Website%20demo.gif
